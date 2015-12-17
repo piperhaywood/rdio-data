@@ -1,4 +1,8 @@
+# My Rdio export
 
+Rdio's shutting down so I exported my data. Haven’t been too pleased with the imports I’ve tried so far, so keeping the raw data here. 
+
+# Rdio instructions
 Find updated information at <<rdio.com/farewell/instructions>>.
 
 Rdio has been acquired, and the service will end soon. To help you move your collection to other services, we’ve provided this set of files with your Rdio data in various formats. Some of these make it easy to import your favorites and playlists into other services. Other files include some of your activity on Rdio (such as comments) that you can keep as your own personal record.

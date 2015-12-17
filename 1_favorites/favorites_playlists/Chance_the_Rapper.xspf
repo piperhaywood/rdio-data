@@ -1,0 +1,212 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Chance the Rapper</title>
+  <creator>BrockDonovan</creator>
+  <meta rel="https://rdio.com/xspf/key">p7062788</meta>
+  <meta rel="https://rdio.com/xspf/name">Chance the Rapper</meta>
+  <meta rel="https://rdio.com/xspf/owner">BrockDonovan</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/BrockDonovan/playlists/7062788/Chance_the_Rapper/</meta>
+  <trackList>
+    <track>
+      <title>Sunday Candy</title>
+      <creator>Donnie Trumpet &amp; The Social Experiment</creator>
+      <album>Surf</album>
+      <trackNum>15</trackNum>
+      <duration>226000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACG1582642</meta>
+    </track>
+    <track>
+      <title>Wanna Be Cool</title>
+      <creator>Donnie Trumpet &amp; The Social Experiment</creator>
+      <album>Surf</album>
+      <trackNum>5</trackNum>
+      <duration>207000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACG1582631</meta>
+    </track>
+    <track>
+      <title>Baby Blue (feat. Chance the Rapper)</title>
+      <creator>Action Bronson</creator>
+      <album>Mr. Wonderful</album>
+      <trackNum>9</trackNum>
+      <duration>280000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21500295</meta>
+    </track>
+    <track>
+      <title>Cold Stares (feat. Chance The Rapper &amp; Maceo Haymes)</title>
+      <creator>NOSAJ THING</creator>
+      <album>Cold Stares (feat. Chance The Rapper &amp; Maceo Haymes)</album>
+      <trackNum>1</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USD8D1528005</meta>
+    </track>
+    <track>
+      <title>The Way (feat. Chance the Rapper)</title>
+      <creator>Kehlani</creator>
+      <album>You Should Be Here</album>
+      <trackNum>7</trackNum>
+      <duration>262000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21500813</meta>
+    </track>
+    <track>
+      <title>Tap Dance (feat. Chance the Rapper &amp; The Social Experiment)</title>
+      <creator>Octave Minds</creator>
+      <album>Octave Minds</album>
+      <trackNum>4</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEDU21400463</meta>
+    </track>
+    <track>
+      <title>Life Round Here</title>
+      <creator>James Blake</creator>
+      <album>Life Round Here</album>
+      <trackNum>1</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71306853</meta>
+    </track>
+    <track>
+      <title>Family (Blended Babies Remix) [feat. Vic Mensa]</title>
+      <creator>Chance the Rapper,Vic Mensa</creator>
+      <album>Family (Blended Babies Remix) [feat. Vic Mensa]</album>
+      <trackNum>1</trackNum>
+      <duration>185000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABL1382035</meta>
+    </track>
+    <track>
+      <title>Three Course Meal (feat. Action Bronson &amp; Chance the Rapper)</title>
+      <creator>ProbCause</creator>
+      <album>Three Course Meal (feat. Action Bronson &amp; Chance the Rapper)</album>
+      <trackNum>1</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABL1203181</meta>
+    </track>
+    <track>
+      <title>Lsd (feat. Chance the Rapper)</title>
+      <creator>ProbCause</creator>
+      <album>The Recipe Volume 2</album>
+      <trackNum>4</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABP1331679</meta>
+    </track>
+    <track>
+      <title>Gentlemen</title>
+      <creator>Just A Band, Bajah + Chance the Rapper</creator>
+      <album>Red Hot + Fela</album>
+      <trackNum>10</trackNum>
+      <duration>343000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBQU1300169</meta>
+    </track>
+    <track>
+      <title>The Wonder Years (feat. Chance the Rapper &amp; Nico Segal)</title>
+      <creator>The O'My's</creator>
+      <album>Chicago Style</album>
+      <trackNum>1</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABJ1219762</meta>
+    </track>
+    <track>
+      <title>I. The Worst Guys</title>
+      <creator>Childish Gambino</creator>
+      <album>Because The Internet</album>
+      <trackNum>5</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USYAH1300220</meta>
+    </track>
+    <track>
+      <title>Out of Sight (feat. Chance the Rapper)</title>
+      <creator>Kelsey</creator>
+      <album>A Delightful Sadness</album>
+      <trackNum>3</trackNum>
+      <duration>176000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QML6Z1200001</meta>
+    </track>
+    <track>
+      <title>Spaceship II (feat. Chance The Rapper, GLC)</title>
+      <creator>Alex Wiley</creator>
+      <album>Club Wiley</album>
+      <trackNum>4</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2P1356568</meta>
+    </track>
+    <track>
+      <title>K-Swiss (feat. Chance The Rapper, Vic Mensa)</title>
+      <creator>Alex Wiley</creator>
+      <album>Club Wiley</album>
+      <trackNum>9</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2P1356573</meta>
+    </track>
+    <track>
+      <title>Confident</title>
+      <creator>Justin Bieber</creator>
+      <album>Confident</album>
+      <trackNum>1</trackNum>
+      <duration>248000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71319306</meta>
+    </track>
+    <track>
+      <title>Coast Is Clear</title>
+      <creator>Skrillex</creator>
+      <album>Recess</album>
+      <trackNum>5</trackNum>
+      <duration>243000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21400802</meta>
+    </track>
+    <track>
+      <title>Childs Play (feat. Chance the Rapper)</title>
+      <creator>Sza</creator>
+      <album>Z</album>
+      <trackNum>2</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABW1406843</meta>
+    </track>
+    <track>
+      <title>Glam (feat. Chance The Rapper with Macie Stewart)</title>
+      <creator>Chuck Inglish</creator>
+      <album>Glam (feat. Chance The Rapper with Macie Stewart)</album>
+      <trackNum>1</trackNum>
+      <duration>347000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QME9F1311062</meta>
+    </track>
+    <track>
+      <title>Don't Wait (Chance the Rapper &amp; The Social Experiment Remix)</title>
+      <creator>Mapei</creator>
+      <album>Don't Wait EP</album>
+      <trackNum>2</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCJ81301205</meta>
+    </track>
+    <track>
+      <title>Give and Take (feat. Chance the Rapper)</title>
+      <creator>Kembe X</creator>
+      <album>Self Rule</album>
+      <trackNum>12</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABS1353856</meta>
+    </track>
+    <track>
+      <title>Out of Sight (Remix) [feat. Chance the Rapper &amp; DJ Trentino]</title>
+      <creator>Kelsey,Chance the Rapper,DJ Trentino</creator>
+      <album>Out of Sight (Remix) [feat. Chance the Rapper &amp; DJ Trentino]</album>
+      <trackNum>1</trackNum>
+      <duration>253000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACC1467788</meta>
+    </track>
+    <track>
+      <title>Long Night (feat. Chance the Rapper)</title>
+      <creator>Hoodie Allen</creator>
+      <album>Crew Cuts</album>
+      <trackNum>6</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABM1333151</meta>
+    </track>
+    <track>
+      <title>Church</title>
+      <creator>BJ The Chicago Kid</creator>
+      <album>Church</album>
+      <trackNum>1</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71511990</meta>
+    </track>
+  </trackList>
+</playlist>

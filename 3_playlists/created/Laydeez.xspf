@@ -1,0 +1,132 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Laydeez</title>
+  <creator>PiperHaywood</creator>
+  <meta rel="https://rdio.com/xspf/key">p12670158</meta>
+  <meta rel="https://rdio.com/xspf/name">Laydeez</meta>
+  <meta rel="https://rdio.com/xspf/owner">PiperHaywood</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/PiperHaywood/playlists/12670158/Laydeez/</meta>
+  <trackList>
+    <track>
+      <title>Rebel Girl</title>
+      <creator>Bikini Kill</creator>
+      <album>Kill Rock Stars Sampler 2009</album>
+      <trackNum>3</trackNum>
+      <duration>157000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKRS0329802</meta>
+    </track>
+    <track>
+      <title>Terrorist</title>
+      <creator>Heavens To Betsy</creator>
+      <album>Calculated</album>
+      <trackNum>9</trackNum>
+      <duration>117000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKRS0322209</meta>
+    </track>
+    <track>
+      <title>Pretend We're Dead</title>
+      <creator>L7</creator>
+      <album>Bricks Are Heavy</album>
+      <trackNum>3</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10901858</meta>
+    </track>
+    <track>
+      <title>Dig Me Out</title>
+      <creator>Sleater-Kinney</creator>
+      <album>Dig Me Out (Remastered)</album>
+      <trackNum>1</trackNum>
+      <duration>160000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB1410501</meta>
+    </track>
+    <track>
+      <title>I Just Wanna Puke On The Stereo</title>
+      <creator>Frumpies</creator>
+      <album>Frumpie One-Piece</album>
+      <trackNum>2</trackNum>
+      <duration>98000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKRS0333502</meta>
+    </track>
+    <track>
+      <title>Hot Topic (41 Small Stars Remix) by DJ Ham and Cheese on Rye</title>
+      <creator>Le Tigre</creator>
+      <album>Hot Topic (41 Small Stars Remix) by DJ Ham and Cheese on Rye</album>
+      <trackNum>1</trackNum>
+      <duration>153000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABE1211440</meta>
+    </track>
+    <track>
+      <title>Standing In the Way of Control</title>
+      <creator>Gossip</creator>
+      <album>Standing in the Way of Control</album>
+      <trackNum>2</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKRS0642202</meta>
+    </track>
+    <track>
+      <title>Driver</title>
+      <creator>Perfect Pussy</creator>
+      <album>Say Yes To Love</album>
+      <trackNum>1</trackNum>
+      <duration>136000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMMZN1300546</meta>
+    </track>
+    <track>
+      <title>Superstar</title>
+      <creator>Sonic Youth</creator>
+      <album>Hits Are For Squares</album>
+      <trackNum>6</trackNum>
+      <duration>249000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAM19400323</meta>
+    </track>
+    <track>
+      <title>The Last Living Rose</title>
+      <creator>PJ Harvey</creator>
+      <album>Let England Shake</album>
+      <trackNum>2</trackNum>
+      <duration>141000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71027777</meta>
+    </track>
+    <track>
+      <title>False Hope</title>
+      <creator>Laura Marling</creator>
+      <album>False Hope</album>
+      <trackNum>1</trackNum>
+      <duration>192000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71406562</meta>
+    </track>
+    <track>
+      <title>You Don't Know How Lucky You Are</title>
+      <creator>Peggy Seeger</creator>
+      <album>The F Spot Femmes Fatales</album>
+      <trackNum>1</trackNum>
+      <duration>182000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UK6F91400009</meta>
+    </track>
+    <track>
+      <title>Typical Girls</title>
+      <creator>The Slits</creator>
+      <album>Cut (Deluxe Edition)</album>
+      <trackNum>9</trackNum>
+      <duration>236000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN7900026</meta>
+    </track>
+    <track>
+      <title>Wild Is The Wind (Live In New York/1964)</title>
+      <creator>Nina Simone</creator>
+      <album>Wild Is The Wind</album>
+      <trackNum>8</trackNum>
+      <duration>420000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPR36400087</meta>
+    </track>
+    <track>
+      <title>What Kind Of Man</title>
+      <creator>Florence + The Machine</creator>
+      <album>What Kind Of Man</album>
+      <trackNum>1</trackNum>
+      <duration>216000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71500289</meta>
+    </track>
+  </trackList>
+</playlist>

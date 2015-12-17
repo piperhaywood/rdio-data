@@ -1,0 +1,108 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Early 2015</title>
+  <creator>baldwinsam</creator>
+  <meta rel="https://rdio.com/xspf/key">p13147682</meta>
+  <meta rel="https://rdio.com/xspf/name">Early 2015</meta>
+  <meta rel="https://rdio.com/xspf/owner">baldwinsam</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/baldwinsam/playlists/13147682/Early_2015/</meta>
+  <trackList>
+    <track>
+      <title>Homesick (feat. Ada)</title>
+      <creator>DJ Koze</creator>
+      <album>Amygdala</album>
+      <trackNum>6</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEMM11300035</meta>
+    </track>
+    <track>
+      <title>Second Chance</title>
+      <creator>Caribou</creator>
+      <album>Our Love</album>
+      <trackNum>6</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DED621401197</meta>
+    </track>
+    <track>
+      <title>Go (feat. Blood Diamonds)</title>
+      <creator>Grimes</creator>
+      <album>Go (feat. Blood Diamonds)</album>
+      <trackNum>1</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1400162</meta>
+    </track>
+    <track>
+      <title>produk 29 [101]</title>
+      <creator>Aphex Twin</creator>
+      <album>Syro</album>
+      <trackNum>3</trackNum>
+      <duration>303000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400090</meta>
+    </track>
+    <track>
+      <title>Go Back</title>
+      <creator>Cookies</creator>
+      <album>Music for Touching</album>
+      <trackNum>2</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USB291400002</meta>
+    </track>
+    <track>
+      <title>Two Weeks</title>
+      <creator>FKA twigs</creator>
+      <album>LP1</album>
+      <trackNum>3</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1400227,GB7MC1400003</meta>
+    </track>
+    <track>
+      <title>Selfish Gene</title>
+      <creator>Panda Bear</creator>
+      <album>Panda Bear Meets The Grim Reaper</album>
+      <trackNum>12</trackNum>
+      <duration>305000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1400464</meta>
+    </track>
+    <track>
+      <title>Can't Do Without You (Tale Of Us &amp; Mano Le Tough Remix)</title>
+      <creator>Caribou</creator>
+      <album>Can't Do Without You (Tale Of Us &amp; Mano Le Tough Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>456000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DED621401232,USMRG1448821</meta>
+    </track>
+    <track>
+      <title>Breathe This Air feat. Purity Ring</title>
+      <creator>Jon Hopkins</creator>
+      <album>Breathe This Air feat. Purity Ring</album>
+      <trackNum>1</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1300414</meta>
+    </track>
+    <track>
+      <title>Velodrome</title>
+      <creator>Kit Grill</creator>
+      <album>Velodrome</album>
+      <trackNum>1</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB64F1100038</meta>
+    </track>
+    <track>
+      <title>REALiTi (Demo)</title>
+      <creator>Grimes</creator>
+      <album>REALiTi (Demo)</album>
+      <trackNum>1</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1500019</meta>
+    </track>
+    <track>
+      <title>Love Is Lost (Hello Steve Reich Mix by James Murphy for the DFA)</title>
+      <creator>David Bowie</creator>
+      <album>Love Is Lost</album>
+      <trackNum>1</trackNum>
+      <duration>624000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRF31300019</meta>
+    </track>
+  </trackList>
+</playlist>
